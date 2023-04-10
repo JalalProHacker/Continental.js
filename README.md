@@ -1,6 +1,6 @@
 # Continental.js
 A JavaScript **object** with information about _all_ countries of the world. Information includes population, surface area, languages and much more 😉.
-> To see full list, find [**"Properties"**](##-properties) section below.
+> To see full list, find [**"Properties"**](##properties) section below.
 
 ## Add to HTML 
 Paste the following code into your `<head>` or the beginning of `<body>` in your `HTML` file:
@@ -10,9 +10,9 @@ Paste the following code into your `<head>` or the beginning of `<body>` in your
 > The code is stored in Replit. [See full code](https://c.jalalprohacker.repl.co/continental.js)
 
 # Contents
-- [**Properties**](#-properties)
-- [**Examples**](#-examples)
-- [**Notes**](#-notes)
+- [**Properties**](#properties)
+- [**Examples**](#examples)
+- [**Notes**](#notes)
 
 ## Properties
 Below are the ten properties that the code provides:
